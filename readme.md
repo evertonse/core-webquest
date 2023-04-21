@@ -1,6 +1,6 @@
 # Topologia da Rede está em empresa.imn 
 - Aquivo do Emulador Core que simboliza a topologia de rede da empresa é ``empresa.imn``
-
+[]
 
 # Hosts Servidor
 - Hosts cotendo ``-ilustrativo`` no nome , é porque não exibe comportamento de servidor de verdade
@@ -13,3 +13,9 @@
 
 - Rode ``wget http://199.212.0.73:80``shell do host ``EmpresaHTTPServer``
 - Em seguinda, rode ``cat index.html`` pra ver o html recebido da EmpresaHTTPServer
+
+
+
+# Configuration for Routers/Hosts/Servers
+![](images/topology-configuration.png)
+![](images/hosts-configuration.png)
